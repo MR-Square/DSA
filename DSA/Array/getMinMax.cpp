@@ -45,3 +45,26 @@ int main(){
     cout << "largest element:" << max_element << endl;
     return 0;
 }
+
+/*
+some examples:
+I:
+Enter the size of array:5
+Enter the values:
+1 2 3 4 5
+largest element:5
+
+II:
+Enter the size of array:10
+Enter the values:
+0 7 -1 55 -100 20 0 -10 2 15
+smallest element:-100
+largest element:55
+
+III:
+Enter the size of array:7
+Enter the values:
+1 1 2 2 1 1 2
+smallest element:1
+largest element:2
+*/
